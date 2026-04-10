@@ -1,12 +1,13 @@
 # Valentine's Day Card 
-Simple Valentine's Day Card. Made with HTML & CSS. Based on Sleepless Yogi tutorial on The Practical Dev. Go to tutorial at [https://dev.to/sleeplessyogi/create-valentine-s-day-card-using-html-css-4k42](https://dev.to/sleeplessyogi/create-valentine-s-day-card-using-html-css-4k42).
+Valentine's Day Card. The card has a greeting and a beating heart. This project is based on Sleepless Yogi tutorial.
+
+## Tech Stack
+- HTML
+- CSS
 
 ## Instructions
-Clone this repo or download the zip file. Open the index.html file in your browser to see the card.
-
-## Contributions
-I will not be accepting any pull requests.
+Clone this repo or download the zip file. Open the index.html file. The heart will start beating.
 
 ## Acknowledgements 
-* Sleepless Yogi
-* The Practical Dev
+* [Sleepless Yogi](https://dev.to/sleeplessyogi/create-valentine-s-day-card-using-html-css-4k42)
+* DEV
